@@ -1,22 +1,22 @@
 ---
-title: 
-authors: 
-year: 
-venue: 
-doi: 
-url: 
+title:
+authors:
+year:
+venue:
+doi:
+url:
 status: screening
-exclusion_reason: 
+exclusion_reason:
 source: database-search
-snowball_from: 
-se_area: 
-se_task: 
-cv_technique: 
-visual_artifact: 
-rq1_notes: 
-rq2_notes: 
-rq3_notes: 
-rq4_notes: 
+snowball_from:
+se_area:
+se_task:
+cv_technique:
+visual_artifact:
+rq1_notes:
+rq2_notes:
+rq3_notes:
+rq4_notes:
 ---
 
 ## Summary
