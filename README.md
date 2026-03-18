@@ -1,70 +1,38 @@
----
-title: "CV-in-SE Survey Vault"
-type: index
----
+# Computer Vision in Software Engineering — Systematic Survey (2020–2026)
 
-# CV-in-SE Survey (2020–2026)
+This repository contains the replication package for a systematic literature survey extending [Bajammal et al. (IEEE TSE, 2022)](https://doi.org/10.1109/TSE.2020.3032986) to cover publications from 2020 to 2026.
 
-Extension of Bajammal et al. (2022) — *A Survey on the Use of Computer Vision to Improve Software Engineering Tasks*
+**Status:** In progress
 
-**Period:** 2020–2026 | **Pool:** 199 papers | **RQ framework:** RQ1–RQ4
+## Overview
 
----
+Bajammal et al. surveyed the use of computer vision (CV) techniques in software engineering tasks, covering literature up to June 2020 and identifying 66 relevant papers. This study extends that work with the same methodology and research questions applied to the 2020–2026 period.
 
-## Structure
+**Research Questions (following Bajammal et al.):**
+- RQ1: What SE areas and tasks have used CV approaches?
+- RQ2: Why are CV approaches adopted?
+- RQ3: How are CV approaches applied to software and its visual artifacts?
+- RQ4: How are CV-based SE tasks evaluated?
+
+## Repository Structure
 
 ```
-papers/      ← 199 paper notes (.md)
-protocol/    ← methodology.md, criteria.md
-data/        ← synthesis_matrix_199.csv
+cv-in-se-survey/
+├── papers/          # One Markdown note per paper (Obsidian vault)
+├── data/            # Extraction spreadsheets and summary tables
+├── protocol/        # Search protocol and methodology notes
+└── README.md
 ```
 
----
+## Paper Notes (Obsidian)
 
-## Quick Links
+Each paper in `papers/` follows a consistent template with YAML front matter for Dataview queries. See `papers/paper-template.md`.
 
-- [[methodology]] — Survey design & collection
-- [[criteria]] — IC/EC criteria
-- [[synthesis_matrix_199]] — Full data table
+## Authors
 
----
+- [Your Name] — [Your Institution]
+- [Supervisor Name] — [Supervisor Institution]
 
-## Stats
+## Reference
 
-| SE Area | n |
-|---------|---|
-| Testing | 135 |
-| Maintenance | 23 |
-| Development | 20 |
-| Design | 14 |
-| Requirements | 3 |
-| Other | 4 |
-
-| Platform | n |
-|----------|---|
-| Mobile | 63 |
-| Web | 19 |
-| Game | 8 |
-| Desktop | 4 |
-| General | 111 |
-
-| Top CV Technique | n |
-|-----------------|---|
-| Deep Learning / Neural Network | 174 |
-| Template Matching / Feature Matching | 20 |
-| Image Differencing | 18 |
-| OCR | 13 |
-| Color / Spatial Transformation | 13 |
-
----
-
-## Progress
-
-- [x] Database search
-- [x] First pass
-- [x] Second pass (157)
-- [x] Snowballing (+42 = 199)
-- [x] Data extraction (RQ1–RQ4)
-- [ ] Paper reading
-- [ ] Analysis
-- [ ] Writing
+M. Bajammal, A. Stocco, D. Mazinanian, and A. Mesbah, "A Survey on the Use of Computer Vision to Improve Software Engineering Tasks," *IEEE Transactions on Software Engineering*, vol. 48, no. 5, pp. 1722–1742, May 2022.
