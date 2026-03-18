@@ -26,7 +26,7 @@ cv-in-se-survey/
 
 ## Paper Notes (Obsidian)
 
-Each paper in `papers/` follows a consistent template with YAML front matter for Dataview queries. See `papers/paper-template.md`.
+Each paper in `papers/` follows a consistent template with YAML front matter for Dataview queries. See "templates/paper-template.md".
 
 ## Authors
 
