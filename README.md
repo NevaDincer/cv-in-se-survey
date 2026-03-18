@@ -30,8 +30,8 @@ Each paper in `papers/` follows a consistent template with YAML front matter for
 
 ## Authors
 
-- [Your Name] — [Your Institution]
-- [Supervisor Name] — [Supervisor Institution]
+- Neva Dinçer
+- Anıl Koyuncu
 
 ## Reference
 
