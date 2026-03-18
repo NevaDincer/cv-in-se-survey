@@ -1,0 +1,55 @@
+---
+title: "Automated Fixing of Web UI Tests via Iterative Element Matching"
+authors: ""
+year: 2024
+venue: "ASE"
+doi: "10.1109/ase56229.2023.00048"
+url: "https://doi.org/10.1109/ase56229.2023.00048"
+status: to-read
+exclusion_reason:
+source: "ACM DL"
+snowball_from: ""
+se_area: "Testing"
+se_task: "Web UI test repair via element matching"
+cv_technique: "Deep Learning / Neural Network; Template Matching / Feature Matching"
+visual_artifact: "Full-interface"
+rq1_notes: |
+  **Area:** Testing
+  **Task:** Web UI test repair via element matching
+  **Platform:** Web
+rq2_notes: |
+  **Rationale:** Robustness
+rq3_notes: |
+  **CV Technique:** Deep Learning / Neural Network; Template Matching / Feature Matching
+  **Visual Artifact Type:** Full-interface
+rq4_notes: |
+  **Evaluation:** Accuracy metrics
+  **Challenges:** Requires large labeled training data; Sensitivity to resolution, scale, and visual changes; High false positive rate with similar-looking widgets
+---
+
+## Summary
+
+_Add 2-3 sentence summary after reading._
+
+## RQ1 — SE area & task
+
+**Area:** Testing
+**Task:** Web UI test repair via element matching
+**Platform:** Web
+
+## RQ2 — Rationale for CV use
+
+**Rationale:** Robustness
+
+## RQ3 — How CV is applied
+
+**CV Technique:** Deep Learning / Neural Network; Template Matching / Feature Matching
+**Visual Artifact Type:** Full-interface
+
+## RQ4 — Evaluation
+
+**Evaluation:** Accuracy metrics
+**Challenges:** Requires large labeled training data; Sensitivity to resolution, scale, and visual changes; High false positive rate with similar-looking widgets
+
+## Notes
+
