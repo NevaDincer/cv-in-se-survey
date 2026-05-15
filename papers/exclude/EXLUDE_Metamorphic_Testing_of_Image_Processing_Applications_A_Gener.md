@@ -1,0 +1,1 @@
+Duplicate: conference version of MT4Image (103_MT4Image, doi: 10.1016/j.infsof.2025.107909); same authors, same CycleGAN-based MT framework and MT4I tool. Journal version retained.

@@ -1,0 +1,1 @@
+LLM benchmark study on educational images; no CV technique applied to SE artifacts; not a software engineering task.

@@ -5,9 +5,9 @@ year:
 venue:
 doi:
 url:
-status: screening
+status:
 exclusion_reason:
-source: database-search
+source:
 snowball_from:
 se_area:
 se_task:
@@ -35,4 +35,3 @@ rq4_notes:
 
 
 ## Notes
-

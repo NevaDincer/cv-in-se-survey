@@ -1,0 +1,1 @@
+no CV technique used in an SE context; hardware navigation system based on ultrasonic sensors and GPS/GSM, not a software engineering task.

@@ -1,0 +1,5 @@
+- **Abstract** — en önemli kısım, çoğu field buradan çıkar
+- **Introduction** — rationale ve motivasyon için
+- **Methodology/Approach** — CV tekniği ve nasıl uygulandığı için
+- **Evaluation/Experiments** — metrikler ve challenges için
+- **Conclusion** — eksik kalan field'ları tamamlamak için

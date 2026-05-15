@@ -80,10 +80,10 @@ AND
 
 ## Comparison with Bajammal et al. (2022)
 
-| Aspect | Bajammal (2022) | This Survey |
-|--------|-----------------|-------------|
-| Period | 2001–June 2020 | 2020–2026 |
-| Final pool | 66 papers | 199 papers |
-| Databases | 6 | 4 |
-| Snowball yield | +9 | +42 |
-| RQ framework | RQ1–RQ4 | Same RQ1–RQ4 |
+| Aspect         | Bajammal (2022) | This Survey  |
+| -------------- | --------------- | ------------ |
+| Period         | 2001–June 2020  | 2020–2026    |
+| Final pool     | 66 papers       | 199 papers   |
+| Databases      | 6               | 4            |
+| Snowball yield | +9              | +42          |
+| RQ framework   | RQ1–RQ4         | Same RQ1–RQ4 |

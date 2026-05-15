@@ -1,0 +1,1 @@
+Tool/companion paper version of [[WebEvo_Taming_web_application_evolution_via_detecting_semant]] (ISSTA 2021); same approach and first author; full paper retained.

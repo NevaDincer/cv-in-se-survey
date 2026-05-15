@@ -1,0 +1,1 @@
+No CV technique used; hardware navigation system (ultrasonic sensor + GPS/GSM), not a software engineering task.

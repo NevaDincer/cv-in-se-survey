@@ -1,0 +1,1 @@
+Robotics/embodied AI survey; no SE task; VLA models for robotic manipulation, not software engineering artifacts.

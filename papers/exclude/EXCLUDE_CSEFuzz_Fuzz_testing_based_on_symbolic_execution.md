@@ -1,0 +1,1 @@
+No CV technique applied; symbolic execution-based fuzz testing with no visual component; image processing mentioned only as example application domain.
