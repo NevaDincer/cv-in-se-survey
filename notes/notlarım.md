@@ -1,1 +1,0 @@
-ilk başta bence template değişsin sadece rq1-rq4 kısımları kalsın doi kalsın sonlara mini notlar yazayım sonra dedğin gibi diye düşündüm ama kafam çok karışık benim buralara yazdığım biliglere kolay erişebilmem lazım sonra 

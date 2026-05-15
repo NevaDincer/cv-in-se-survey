@@ -1,0 +1,1 @@
+I think the template should be simplified -- only the RQ1–RQ4 sections and the DOI should stay. I want to add short personal notes at the end of each entry. My main concern is being able to access the information I've written here easily later on.
