@@ -1,0 +1,60 @@
+# Extraction Guide
+## CV in SE Survey — 2020–2026
+
+This is a guide I followed to find how each data extraction field is filled for the 199 papers in the survey.
+
+---
+
+## SE Area (RQ1)
+
+| Area | When to use |
+|------|-------------|
+| Testing | Bug detection, test generation, coverage, fuzzing, glitch detection |
+| Maintenance | Bug reports, change detection, refactoring, code review |
+| Development | Code generation, UI implementation, design-to-code |
+| Requirements | UI prototyping, reuse, specification |
+| Design | Visual design evaluation, layout analysis |
+
+## SE Task (RQ1)
+
+More specific than area. Describes exactly what the paper does.
+Example: "automated GUI testing", "text glitch detection", "UI code generation"
+
+## Platform (RQ1)
+
+| Value | When to use |
+|-------|-------------|
+| Mobile | Android, iOS |
+| Web | Browser, website |
+| Desktop | Desktop application |
+| General | Unspecified or multiple platforms |
+
+---
+
+## Rationale (RQ2)
+
+| Value | When to use |
+|-------|-------------|
+| Context-driven | CV is used because the artifact is visual by nature; no explicit justification needed |
+| Performance-driven | Authors explicitly argue CV outperforms non-visual methods |
+
+If no justification is given, it is Context-driven (by default.)
+
+---
+
+## Visual Artifact Type (RQ3)
+
+| Value | Description |
+|-------|-------------|
+| Full-interface | Entire app screen or screenshot |
+| Component | Isolated UI element (button, icon, widget) |
+| Document image | Receipt, form, scanned document |
+| Natural image | Benchmark images (e.g., ImageNet), not SE artifacts |
+| Code | Source code rendered as an image |
+
+---
+
+## Challenges (RQ4)
+
+Taken from limitations, discussion, or threats to validity sections.
+If nothing is stated explicitly, inferred from the experimental setup.
